@@ -72,7 +72,9 @@ export const TokenList = () => {
   return (
     <div className="dashboard">
       <aside className="df fdc sidebar">
-        <h3 className="main-title">Sales <br /> Tracker</h3>
+        <h3 className="main-title">
+          MEME <br /> SCEENER
+        </h3>
         <ul className="chain-list">
           {[
             "Solana",
@@ -105,7 +107,7 @@ export const TokenList = () => {
         </div>
         <div className="df fdc aic gap-10 links">
           <a
-            href="https://www.example.com"
+            href="https://x.com/memescreen_sol"
             target="_blank"
             rel="noopener noreferrer"
             className="w100 df aic jcc gap-20"
